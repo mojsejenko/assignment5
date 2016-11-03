@@ -12,19 +12,11 @@ h3{font-family: 'Pacifico', cursive;}
 
 .row{margin-bottom: 20px}
 
-ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: grey;
-}
-li{
-  float:left;
-}
-
-li a{
+#nav{
   display: block;
-  color; text-align: left;
-  padding: 14px 16px;
+  margin: 0
+  padding: 0px;
+  background-color: grey;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.3em;
 }
