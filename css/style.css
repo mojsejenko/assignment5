@@ -13,7 +13,7 @@ h3{font-family: 'Pacifico', cursive;}
 .row{margin-bottom: 20px}
 
 #nav{
-display: block;
+  display: block;
   margin: 0
   padding: 0px;
   background-color: grey;
